@@ -19,7 +19,7 @@
 
 ---
 
-- [《JavaScript正则表达式迷你书（1.1版）》](JavaScript/JavaScript正则表达式迷你书（1.1版）.pdf)
+- [《JavaScript正则表达式迷你书（1.1版）》](JavaScript/《JavaScript正则表达式迷你书（1.1版）》.pdf)
 - [《JavaScript语言精粹》（文字版）](JavaScript/《JavaScript语言精粹》（文字版）.pdf)
 - [《JavaScript设计模式》（扫描版）](JavaScript/《JavaScript设计模式》（扫描版）.pdf)
 
