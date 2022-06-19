@@ -23,6 +23,22 @@
 - [《JavaScript语言精粹》（文字版）](JavaScript/《JavaScript语言精粹》（文字版）.pdf)
 - [《JavaScript设计模式》（扫描版）](JavaScript/《JavaScript设计模式》（扫描版）.pdf)
 
+---
+
+- [《ES6标准入门 第3版 - 阮一峰》（扫描版）](https://github.com/oliver556/classic-books/releases/tag/ES6)
+
+## TypeScript
+
+- [TypeScript入门教程.epub](TypeScript/TypeScript入门教程.epub)
+
+---
+
+## CSS
+
+- [CSS世界（张鑫旭）.epub](CSS/CSS世界（张鑫旭）.epub)
+
+---
+
 ## Node.js
 
 - [《深入浅出Node.js》（文字版）](Node/《深入浅出Node.js》（文字版）.pdf)
